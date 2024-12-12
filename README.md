@@ -28,10 +28,12 @@ A Personality-Based Retrieval-Augmented Generation (RAG) Chatbot, leveraging doc
 		pip install -r requirements.txt
 
 
-	4.	Create a .env file and set your environment variables:
+	4. 	Create a `.env` file to set your environment variables (optional if you're not using OpenAI APIs). For example:
 
-		OPENAI_API_KEY=your_openai_api_key
+   		OPENAI_API_KEY=your_openai_api_key
 
+   		This key is only required if you wish to integrate OpenAI's API. Otherwise, the app uses a locally hosted model for response generation.
+	
 
 	5.	Run the application:
 
