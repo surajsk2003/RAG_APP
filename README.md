@@ -78,7 +78,8 @@ A Personality-Based Retrieval-Augmented Generation (RAG) Chatbot, leveraging doc
 		•	Process: Store chat history in st.session_state and export on demand.
 		•	Output: Downloadable text file containing the chat history.
 
-## Flow Diagram (Text Representation)
+## Flow Diagram (Text & Image Representation)
+	https://imgur.com/undefined
 
 
 	[User Uploads File] → [Parse File Content] → [Store in SQLite Database]
