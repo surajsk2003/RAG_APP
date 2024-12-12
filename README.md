@@ -1,6 +1,6 @@
-# RAG_Chat_Bot
+# RAG_APP
 
-A Personality-Based Retrieval-Augmented Generation (RAG) Chatbot, leveraging document embeddings and advanced AI models, to provide personalized, dynamic, and context-aware responses. This repository contains the source code for the chatbot, along with its various components and functionalities.
+A Personality-Based Retrieval-Augmented Generation (RAG) APP, leveraging document embeddings and advanced AI models, to provide personalized, dynamic, and context-aware responses. This repository contains the source code for the chatbot, along with its various components and functionalities.
 
 
 ## Features
